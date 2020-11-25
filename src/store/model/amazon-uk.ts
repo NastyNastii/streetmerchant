@@ -37,7 +37,7 @@ export const AmazonUk: Store = {
 			url: 'https://www.amazon.co.uk/dp/B081265T5Z/'
 		},
 		{
-                        brand: 'Pokèmon',
+                        brand: 'Pokemon',
                         cartUrl: 'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B083JX7P62&Quantity.1=1',
                         model: 'Toxtricity V',
                         series: 'Pokemon',
