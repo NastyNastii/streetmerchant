@@ -13,7 +13,7 @@ export type Pricing = {
 export type Brand =
 	| 'test:brand'
 	| 'amd'
-	| 'asrock'
+	| 'Pokèmon'
 	| 'asus'
 	| 'corsair'
 	| 'evga'
@@ -46,7 +46,7 @@ export type Series =
 	| 'ryzen5950'
 	| 'sonyps5c'
 	| 'sonyps5de'
-	| 'sf'
+	| 'Pokemon'
 	| 'xboxsx'
 	| 'xboxss';
 
@@ -79,7 +79,7 @@ export type Model =
 	| 'gaming x trio'
 	| 'gaming x3'
 	| 'gaming'
-	| 'ichill x2'
+	| 'Toxtricity V'
 	| 'ichill x3'
 	| 'ichill x4'
 	| 'nitro oc se'
