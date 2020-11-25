@@ -13,7 +13,7 @@ export type Pricing = {
 export type Brand =
 	| 'test:brand'
 	| 'amd'
-	| 'Pokèmon'
+	| 'Pokemon'
         | 'asrock'
 	| 'asus'
 	| 'corsair'
