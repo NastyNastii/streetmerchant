@@ -48,6 +48,7 @@ export type Series =
 	| 'sonyps5c'
 	| 'sonyps5de'
         | 'sf'
+        | 'pokemon'
 	| 'xboxsx'
 	| 'xboxss';
 
