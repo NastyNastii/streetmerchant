@@ -14,6 +14,7 @@ export type Brand =
 	| 'test:brand'
 	| 'amd'
 	| 'Pokèmon'
+        | 'ASrock'
 	| 'asus'
 	| 'corsair'
 	| 'evga'
@@ -47,6 +48,7 @@ export type Series =
 	| 'sonyps5c'
 	| 'sonyps5de'
 	| 'Pokemon'
+        | 'sf'
 	| 'xboxsx'
 	| 'xboxss';
 
@@ -57,6 +59,8 @@ export type Model =
 	| '5900x'
 	| '5950x'
 	| '600 platinum'
+        | 'Pokèmon'
+        | 'ichill x2'
 	| '750 platinum'
 	| 'amd reference'
 	| 'amp extreme holo'
