@@ -14,7 +14,7 @@ export type Brand =
 	| 'test:brand'
 	| 'amd'
 	| 'Pokèmon'
-        | 'ASrock'
+        | 'asrock'
 	| 'asus'
 	| 'corsair'
 	| 'evga'
