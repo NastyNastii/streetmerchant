@@ -47,7 +47,6 @@ export type Series =
 	| 'ryzen5950'
 	| 'sonyps5c'
 	| 'sonyps5de'
-	| 'Pokemon'
         | 'sf'
 	| 'xboxsx'
 	| 'xboxss';
